@@ -1,0 +1,7 @@
+What is the difference between var and let?(var can be reassigned and redeclared while let can only be reassigned.)
+
+What is the difference between var and const?(const can't be reassigned or redeclared like var can.)
+
+What is the difference between let and const?(let can be reassigned while const can't.)
+
+What is hoisting?(Hoisting is JavaScript's default behavior of moving declarations to thetop.)
